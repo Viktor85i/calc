@@ -1,0 +1,63 @@
+//@font-face {
+//  font-family: 'PTSerifItalic';
+//  src: url('../fonts/PTSerifItalic.eot');
+//  src: url('../fonts/PTSerifItalic.eot?#iefix') format('embedded-opentype'),
+//  url('../fonts/PTSerifItalic.woff') format('woff'),
+//  url('../fonts/PTSerifItalic.ttf') format('truetype');
+//  font-weight: normal;
+//  font-style: normal;
+//
+//}
+@font-face {
+	font-family: 'Proxima Nova - Extrabld';
+	src: url('../fonts/ProximaNova-Extrabld.eot');
+	src: local('../fonts/Proxima Nova Extrabold'), local('ProximaNova-Extrabld'),
+		url('../fonts/ProximaNova-Extrabld.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/ProximaNova-Extrabld.woff') format('woff'),
+		url('../fonts/ProximaNova-Extrabld.ttf') format('truetype');
+	font-weight: 800;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Proxima Nova';
+	src: url('../fonts/ProximaNova-Regular.eot');
+	src: local('../fonts/Proxima Nova Regular'), local('ProximaNova-Regular'),
+		url('../fonts/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/ProximaNova-Regular.woff') format('woff'),
+		url('../fonts/ProximaNova-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Proxima Nova - Semibold';
+	src: url('../fonts/ProximaNova-Semibold.eot');
+	src: local('../fonts/Proxima Nova Semibold'), local('ProximaNova-Semibold'),
+		url('../fonts/ProximaNova-Semibold.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/ProximaNova-Semibold.woff') format('woff'),
+		url('../fonts/ProximaNova-Semibold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Arial - Black';
+	src: url('../fonts/Arial-Black.woff2') format('woff2'),
+	url('../fonts/Arial-Black.woff') format('woff');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Arial MT';
+	src: url('../fonts/ArialMT.woff2') format('woff2'),
+	url('../fonts/ArialMT.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Arial - Bold MT';
+	src: url('../fonts/Arial-BoldMT.woff2') format('woff2'),
+	url('../fonts/Arial-BoldMT.woff') format('woff');
+	font-weight: bold;
+	font-style: normal;
+}
